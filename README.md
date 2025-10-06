@@ -24,7 +24,6 @@
 
 ![icons](https://skillicons.dev/icons?i=html,css,js,react,nodejs,vscode,github,git)
 ![icons](https://skillicons.dev/icons?i=python,lua,java,mysql)
-
 > 100% de mon code : tapé par **ChatGPT** → collé dans **VSCode** → crash en prod.  
 
 ---
@@ -33,7 +32,6 @@
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" />
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-
 > *Ces stats reflètent surtout combien de fois j’ai demandé “ChatGPT aide moi stp”.*  
 
 ---
