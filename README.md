@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Yo+👋;+Moi+c'est+Pedro+Muniz!;"/></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Yo+👋;+Moi+c'est+Noah+Ballas!;"/></p>
 
 ### Pas développeur, juste utilisateur premium de ChatGPT 🚀
 
